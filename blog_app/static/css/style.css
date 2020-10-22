@@ -8,3 +8,20 @@ body{
 
 .header{
 }
+
+/*
+  ---------------- BLOG PAGE
+*/
+.blogMainPage__banner{
+    padding: 6em;
+    margin-top: 20px;
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0)), url("../img/b1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+}
+.blogMainPage__banner h1{
+    font-size: 50px;
+    color: #ffffff;
+    z-index: 1;
+}
