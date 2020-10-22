@@ -25,3 +25,11 @@ body{
     color: #ffffff;
     z-index: 1;
 }
+.blogMainPage__lastPosts {
+    margin-top: 20px;
+}
+.blogMainPage__lastPosts .blogPostSection {
+    display: flex;
+    flex-direction: row;
+    place-content: space-between;
+}
